@@ -1,0 +1,30 @@
+package prj5;
+
+import java.util.Comparator;
+
+/**
+ * Comparator class for the artist of two songs
+ * 
+ * @author Group One (tqamar, adamc1, hoangcd, tdeel)
+ * @version 2019.13.08
+ */
+public class ArtistComparator implements Comparator<Song> {
+
+    /**
+     * compares the artist of two songs
+     * 
+     * 
+     * @param songOne
+     *            first song to compare
+     * @param songTwo
+     *            second song to compare
+     * @return int 0, 1, or -1 depending on the
+     *         results of the compare
+     */
+    @Override
+    public int compare(Song songOne, Song songTwo) {
+        return songOne.getArtistName().compareToIgnoreCase(songTwo
+            .getArtistName());
+    }
+
+}
