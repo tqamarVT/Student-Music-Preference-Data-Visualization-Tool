@@ -1,10 +1,10 @@
 package prj5;
-
 import java.util.Comparator;
+
 /**
  * Comparator class for the genre of two songs
  * 
- * @author Group One (tqamar, adamc1, hoangcd, tdeel)
+ * @author Taimoor Qamar
  * @version 2019.13.08
  */
 public class GenreComparator implements Comparator<Song> {
