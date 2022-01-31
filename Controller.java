@@ -1,17 +1,9 @@
-// Virginia Tech Honor Code Pledge:
-
-//
-// As a Hokie, I will conduct myself with honor and doubleegrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-// -- Caroline Hoang (hoangcd)
-
 package prj5;
 
 /**
  * The class that calculates the percentages for the glyphs
  * 
- * @author Caroline Hoang
+ * @author Taimoor Qamar
  * @version 08.13.2019
  *
  */
