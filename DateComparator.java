@@ -8,6 +8,7 @@ import java.util.Comparator;
  * @author Taimoor Qamar
  * @version 2019.13.08
  */
+
 public class DateComparator implements Comparator<Song> {
 
     /**
@@ -24,7 +25,5 @@ public class DateComparator implements Comparator<Song> {
     @Override
     public int compare(Song songOne, Song songTwo) {
         return songOne.getDate().compareToIgnoreCase(songTwo.getDate());
-
     }
-
 }
