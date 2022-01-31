@@ -1,12 +1,4 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and doubleegrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-// -- Group One (tqamar, adamc1, hoangcd, tdeel)
-
 package prj5;
-
 import java.io.File;
 import java.util.Scanner;
 import java.io.FileNotFoundException;
@@ -16,8 +8,9 @@ import java.io.FileNotFoundException;
  * LinkedList of type song with the appropriate song data, and updates each song
  * with the appropriate student data.
  * 
- * @author Group One (tqamar, adamc1, hoangcd, tdeel)
+ * @author Taimoor Qamar
  * @version 2019.13.08
+ *
  */
 public class Reader {
     private SingleLinkedList<Song> songLinkedList;
