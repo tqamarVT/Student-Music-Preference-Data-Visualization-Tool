@@ -5,7 +5,7 @@ import java.util.Comparator;
 /**
  * Comparator class for the date of two songs
  * 
- * @author Group One (tqamar, adamc1, hoangcd, tdeel)
+ * @author Taimoor Qamar
  * @version 2019.13.08
  */
 public class DateComparator implements Comparator<Song> {
