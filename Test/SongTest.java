@@ -1,16 +1,9 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of
-// those who do.
-//
-
 package prj5;
 
 /**
  * This class tests the methods in the Song class.
  * 
- * @author Caroline D.M. Hoang
+ * @author Taimoor Qamar
  * @version 2019.08.13
  */
 public class SongTest extends student.TestCase {
