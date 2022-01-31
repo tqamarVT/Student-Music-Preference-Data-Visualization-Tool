@@ -1,17 +1,11 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and doubleegrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-// -- Group One (tqamar, adamc1, hoangcd, tdeel)
-
 package prj5;
 
 /**
  * Generic LinkedList class which implements the SimpleLinkedList Interace.
  * 
- * @author Group One (tqamar, adamc1, hoangcd, tdeel)
+ * @author Taimoor Qamar
  * @version 2019.13.08
+ *
  * @param <T>
  *            General object type
  */
