@@ -1,10 +1,3 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and doubleegrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-// -- Group One (tqamar, adamc1, hoangcd, tdeel)
-
 package prj5;
 
 import student.TestCase;
@@ -13,7 +6,7 @@ import student.TestCase;
  * LinkedListTest class which tests the methods implemented in the LinkedList
  * class.
  * 
- * @author Group One (tqamar, adamc1, hoangcd, tdeel)
+ * @author Taimoor Qamar
  * @version 2019.13.08
  */
 public class SingleLinkedListTest extends TestCase {
