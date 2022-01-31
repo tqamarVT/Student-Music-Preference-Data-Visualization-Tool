@@ -1,25 +1,18 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those
-// who do.
-//
 package prj5;
-
 import java.util.*;
 
 /**
- * this class calculates all of the statistics besides percentages
+ * This class calculates all of the statistics besides percentages
  * counts the total number of people who heard and liked a song for
  * given parameters
  * 
- * @author group1
+ * @author Taimoor Qamar
+ * @version 2019.13.08
  */
+
 /**
  * Creates a song object
  * 
- * @author Caroline Hoang
- * @version 07.31.2019
  */
 
 public class Song {
